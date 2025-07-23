@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "telegram-form-sender",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "telegram-form-sender-db",
+      "database_id": "5bbb6c29-9cf4-4232-b844-4ae997e89d40"
+    }
+  ]
+}
